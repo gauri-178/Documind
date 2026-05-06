@@ -1,8 +1,8 @@
-# DocuMind 🚀
+# DocuMind 
 
 DocuMind is an AI-powered document analysis platform that allows users to upload documents (PDF, Word, Text, etc.) and chat with them using intelligent RAG (Retrieval-Augmented Generation) processing.
 
-## 🏗️ Technical Architecture
+## Technical Architecture
 
 - **Frontend**: React (Vite) + Tailwind CSS + Lucide Icons
 - **Backend**: Java 21 + Spring Boot + Spring Security + JPA/Hibernate
@@ -10,7 +10,7 @@ DocuMind is an AI-powered document analysis platform that allows users to upload
 
 ---
 
-## 🛠️ Setup & Installation
+## Setup & Installation
 
 ### 1. Database Configuration
 Ensure you have **MySQL** installed and running.
@@ -56,7 +56,7 @@ The frontend will be available at `http://localhost:5173`.
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
 - **Document Upload**: Supports PDF, DOCX, TXT, CSV, and Images.
 - **Smart Analytics**: AI-driven responses based on your specific document content.
@@ -66,7 +66,7 @@ The frontend will be available at `http://localhost:5173`.
 
 ---
 
-## 📝 Usage
+## Usage
 
 1. Sign up for a new account.
 2. Create a "New Chat".
