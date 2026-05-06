@@ -1,0 +1,5 @@
+Documind Test Document
+-----------------------
+This is a sample document used for automated UI testing.
+It contains some text to verify that the RAG (Retrieval-Augmented Generation) 
+and AI processing logic can handle file uploads and context retrieval.
